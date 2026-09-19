@@ -1,0 +1,10 @@
+# Generated build products
+build/
+include/astra_config.h
+
+# Editor and operating-system state
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
